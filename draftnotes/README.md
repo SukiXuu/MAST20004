@@ -14,24 +14,34 @@ Author: SukiXuu Subject: MAST20004 Time: 2020-09-12, 2020 Semester
 ### Topic02-Univariate Distribution
 
 * [ ] Probability mass/density Function
+
 * [ ] Distribution Function
+
 * [ ] Expectation
+
 * [ ] Varians
+
 * [ ] Discrete Random Variables
+
 * [ ] Continuous Random Variables
 
-  **Topic03-Bivariate Distribution**
+### **Topic03-Bivariate Distribution**
 
 * [ ] Probability mass/density Function
+
 * [ ] Independence
+
 * [ ] Conditional Distribution
+
 * [ ] Marginal
 
-  **Topic04-Generating Function**
+### **Topic04-Generating Function**
 
 * [ ] Probability Generating Function
+
 * [ ] Moment Generating Function
+
 * [ ] Cumulant Generating Function
 
-  **Topic05-Markov Chain**
+### **Topic05-Markov Chain**
 
